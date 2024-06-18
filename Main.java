@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * @author Sam Krajewski
+ * Email: gkrajewski@wisc.edu
+ * CS UserName: krajewski
  */
 import java.util.*;
 

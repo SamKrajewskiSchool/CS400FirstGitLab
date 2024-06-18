@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	@author Sam Krajewski
+ *	Email: gkrajewski@wisc.edu
+ *	CS UserName: krajewski
  */
 public class Color{
 	private String color;
